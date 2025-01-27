@@ -16,3 +16,5 @@ pub mod server;
 pub mod service;
 
 mod error;
+
+extern crate hyper_myyrakle as hyper;
